@@ -1,7 +1,1 @@
-[
-    {
-        "title":"Test Title",
-        "text":"Test text"
-    }
-]
-{"title":"title","text":"text"}{"title":"title","text":"text"}
+[{"title":"title","text":"some text"},{"title":"another one","text":"text"}]
